@@ -4,3 +4,6 @@
 [submodule "/Users/Ananthakrishnan/Documents/Anantha Krishnan/Anantha Workspace/AdaptiveU_V2.0"]
 	path = /Users/Ananthakrishnan/Documents/Anantha Krishnan/Anantha Workspace/AdaptiveU_V2.0
 	url = /Users/Ananthakrishnan/Documents/Anantha Krishnan/Anantha Workspace/AdaptiveU_V2.0
+[submodule "/AdaptiveU_V2.0"]
+	path = /AdaptiveU_V2.0
+	url = /Users/Ananthakrishnan/Documents/Anantha Krishnan/Anantha Workspace/AdaptiveU_V2.0/.git
