@@ -1,0 +1,3 @@
+[submodule "https://github.com/ananthakrishnan/gitcommittest"]
+	path = https://github.com/ananthakrishnan/gitcommittest
+	url = git://github.com/ananthakrishnan/gitcommittest
